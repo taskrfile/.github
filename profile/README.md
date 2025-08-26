@@ -1,13 +1,4 @@
-<!--
+🛠️ Welcome!
+This is the home of `taskr`, a simple and extensible command-line task runner that is configured in a `taskrfile`.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-This is an organization for all repositories / work related to taskr.
-
-Created by: Arne Van Looveren
+Created by [Arne Van Looveren](https://github.com/arne-vl)
